@@ -125,7 +125,7 @@ img{
 }
 
 .mercury::before,.venus::before,.earth::before,.moon::before,
-.mars::before,.jupiter::before,.saturn::before,.uranus,.neptune::before,
+.mars::before,.jupiter::before,.saturn::before,.uranus::before,.neptune::before,
 .pluto::before{
     content: '';
     position: absolute;
@@ -140,7 +140,7 @@ img{
     right: 0.8em;
     width: 2em;
     height: 2em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/mercury.png");
     background-size: cover;
 }
 
@@ -149,7 +149,7 @@ img{
     right: 2em;
     width: 2em;
     height: 2em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/venus.png");
     background-size: cover;
 }
 
@@ -158,7 +158,7 @@ img{
     right: 0em;
     width: 5em;
     height: 5em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/earth.png");
     background-size: cover;
 }
 
@@ -167,7 +167,7 @@ img{
     right: 0.2em;
     width: 1.2em;
     height: 1.2em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/moon.png");
     background-size: cover;
 }
 
@@ -176,7 +176,7 @@ img{
     right: 3em;
     width: 3em;
     height: 3em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/mars.png");
     background-size: cover;
 }
 
@@ -185,7 +185,7 @@ img{
     right: 3em;
     width: 5em;
     height: 5em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/jupiter.png");
     background-size: cover;
 }
 
@@ -194,7 +194,7 @@ img{
     right: 5em;
     width: 4.5em;
     height: 4.5em;
-    background-image: url("./assets/mercury.jpeg");
+    background-image: url("./assets/saturn.png");
     background-size: cover;
 }
 
